@@ -2,7 +2,7 @@
 music mixing project
 
 ## Dataset
-[dataset-of-00s.csv]([https://www.example.com/link-to-dataset](https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset?select=dataset-of-00s.csv))
+[dataset-of-00s.csv](https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset?select=dataset-of-00s.csv)
 
 ## Why did I chose this dataset?
 I wanted to show how to mix music based on tempo and key using the chamelot wheel. 
